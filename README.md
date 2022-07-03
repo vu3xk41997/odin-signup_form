@@ -5,3 +5,15 @@ Project for CSS
 ## HTML
 * background
 * form
+
+## CSS
+* css reset
+* background
+* box-shadow
+* :focus
+* @font-face
+
+## JavaScript
+* document.getElementById
+* if statement
+* alert
