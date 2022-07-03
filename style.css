@@ -189,4 +189,5 @@ input[type=submit] {
 .container > p > a {
     color:rgb(82, 123, 139);
     font-weight: bolder;
+    text-decoration: none;
 }
